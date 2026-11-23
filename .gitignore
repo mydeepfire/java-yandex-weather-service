@@ -1,0 +1,17 @@
+# Сборка Maven
+target/
+
+# Файлы IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Переменные окружения и секреты
+.env
+*.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
